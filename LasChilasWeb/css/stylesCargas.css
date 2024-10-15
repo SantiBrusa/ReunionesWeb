@@ -1,0 +1,100 @@
+body {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #829384;
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: smaller;
+    padding: 0;
+    margin: 0;
+}
+
+/*header*/
+#Logo img {
+    display: flex;
+    margin: auto;
+}
+
+#informe h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+/*cuadro feedlot*/
+#feedlot {
+    background-color: #67b360;
+    border-radius: 30px;
+}
+
+#feedlot img {
+    display: flex;
+    margin: auto;
+    
+}
+
+#feedlot h2{
+    text-align: center;
+}
+
+/*cuadro cerdos*/
+#cerdos {
+    background-color: #67b360;
+    border-radius: 30px;
+}
+
+#cerdos img {
+    display: flex;
+    margin: auto;
+    
+}
+
+#cerdos h2{
+    text-align: center;
+}
+
+/*cuadro bio industria*/
+#bioind {
+    background-color: #67b360;
+    border-radius: 30px;
+}
+
+#bioind img {
+    display: flex;
+    margin: auto;
+    
+}
+
+#bioind h2{
+    text-align: center;
+}
+
+
+/*users*/
+#users {
+    background-color: #67b360;
+ 
+    border-radius: 30px;
+}
+
+#users img {
+    display: flex;
+    margin: auto;
+    
+}
+
+#users h2{
+    text-align: center;
+}

@@ -1,0 +1,52 @@
+body {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    background-color: #829384; 
+    background-image: url(../img/WhatsApp\ Image\ 2024-08-24\ at\ 22.26.55.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: smaller;
+    margin-top: 35px;
+}
+
+/*header*/
+#Logo img {
+    display: flex;
+    margin: auto;
+}
+
+#title h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+#ing {
+    background-color: black;
+    opacity: 70%;
+    color: wheat;
+    border-radius: 10px;
+    
+}
+
+#ing h2, h3, h4 {
+    text-align: center;
+}
+
+h3 {
+    font-size: medium;
+}
